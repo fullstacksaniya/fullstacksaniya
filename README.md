@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing a program
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a well reputated company
-- 📫 How to reach me : fullstacksaniya@gmail.com
+- 📫 How to reach me : codewithsaniya@gmail.com
 
 <!---
 fullstacksaniya/fullstacksaniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
